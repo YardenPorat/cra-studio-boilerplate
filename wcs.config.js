@@ -6,7 +6,7 @@ module.exports = {
     componentsDiscovery: {
         include: ['src/**'],
     },
-    simulationGlobalSetup: './src/simulation-global-setup.ts',
+    simulationGlobalSetup: './src/boards-global-setup.ts',
     scripts: {
         install: {
             title: 'Install',
