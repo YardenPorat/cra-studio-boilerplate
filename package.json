@@ -42,6 +42,7 @@
     ]
   },
   "devDependencies": {
-    "@wixc3/react-simulation": "^4.0.0"
+    "@wixc3/react-simulation": "^4.0.0",
+    "sass": "^1.49.0"
   }
 }
